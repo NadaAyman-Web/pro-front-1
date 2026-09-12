@@ -46,6 +46,9 @@ body{
 .list li a{
      color:#264827;
 }
+.list li a:hover{
+    color:#0B1F0B;
+}
 .m2{
     position: relative;
     display: inline-block;
